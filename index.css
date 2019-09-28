@@ -1,0 +1,30 @@
+*{
+    box-sizing:border-box;
+}
+html, body{
+    margin:0;
+    padding:0;
+    font-family:Arial;
+}
+
+.first, .second{
+    width:100vw;
+    height:100vh;
+
+    padding-top:40vh;
+}
+
+.first{
+    background-color:forestgreen;
+}
+.second{
+    background-color:deepskyblue;
+}
+
+.content{
+    width:20vw;
+    height:20vh;
+    margin:auto;
+    border:1px solid white;
+}
+
